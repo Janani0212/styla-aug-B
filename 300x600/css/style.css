@@ -68,21 +68,21 @@
   padding-top: 260px;
   left: 16%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 12.5s;
+  animation-delay: 14.5s;
   animation-fill-mode: forwards; 
 }
 #line4{
   padding-top: 310px;
   left: 17.5%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 12.75s;
+  animation-delay: 14.75s;
   animation-fill-mode: forwards; 
 }
 #line5{
   padding-top: 365px;
   left: 20.5%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 13s;
+  animation-delay: 15s;
   animation-fill-mode: forwards; 
 }
 #line6{
@@ -92,7 +92,7 @@
   height: 1px;
   width: 215px;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 13.25s;
+  animation-delay: 15.25s;
   animation-fill-mode: forwards; 
 }
 .text1 {
@@ -233,7 +233,7 @@
 }
 
 .amount{
-  font-size: 20px;
+  font-size: 22px;
   color: #fff;
   font-weight: 600;
   padding: 6px 0;

@@ -46,7 +46,7 @@
   padding-top: 60px;
   left: 50%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 10.10s;
+  animation-delay: 13.10s;
   animation-fill-mode: forwards; 
 }
 #line4{
@@ -56,7 +56,7 @@
   height: 1px;
   width: 445px;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 10.15s;
+  animation-delay: 13.15s;
   animation-fill-mode: forwards; 
 }
 #terms{
@@ -157,10 +157,6 @@
   background: url('../img/txt8_2x.png') center no-repeat;
   background-size: 100% 100%;
 }
-#txt9 {
-  background: url('../img/txt9_2x.png') center no-repeat;
-  background-size: 100% 100%;
-}
 #cta{
   background: url('../img/cta_2x.png') center no-repeat;
   background-size: 100% 100%;
@@ -186,12 +182,12 @@
 .ctext{
   font-weight: 400;
   position: absolute;
-  line-height: 26px;
+  line-height: 30px;
   color: #ffffff;  
   font-family: 'Poppins', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
-  top: 19px;
+  top: 22px;
 }
 #circle2{
   left: 552px;
@@ -200,7 +196,7 @@
   top: 28px;
 }
 .amount{
-  font-size: 20px;
+  font-size: 22px;
   color: #fff;
   font-weight: 600;
   display: inline-block;
@@ -209,14 +205,13 @@
   font-size: 11px;
   font-style: italic;
   display: inline-block;
-  padding-top: 20px;
 }
 
 .top32{
-  top: 30px;
+  top: 22px;
 }
 .top48{
-  top: 48px;
+  top: 38px;
 }
 #circle2{
   z-index: 2;
@@ -224,4 +219,7 @@
 #circle3{
   z-index: 3;
   left: 552px;
+}
+#circle3 .term{
+padding-top: 10px;
 }

@@ -68,14 +68,14 @@
   padding-top: 80px;
   left: 4%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 11.5s;
+  animation-delay: 14.5s;
   animation-fill-mode: forwards; 
 }
 #line4{
   padding-top: 112px;
   left: 30%;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 11.75s;
+  animation-delay: 14.75s;
   animation-fill-mode: forwards; 
 }
 #line5{
@@ -85,7 +85,7 @@
   height: 1px;
   width: 260px;
   animation: type 0.75s steps(60, end); 
-  animation-delay: 12s;
+  animation-delay: 15s;
   animation-fill-mode: forwards; 
 }
 .text7 {
@@ -182,7 +182,7 @@
 }
 
 .amount{
-  font-size: 20px;
+  font-size: 22px;
   color: #fff;
   font-weight: 600;
   padding: 6px 0;
@@ -195,10 +195,10 @@
 }
 
 #circle3 .term{
-  padding-top: 16px;
+  padding-top: 5px;
 }
 #circle3 .ctext {
-  top: 20px;
+  top: 28px;
 }
 #circle3{
   z-index: 3;
